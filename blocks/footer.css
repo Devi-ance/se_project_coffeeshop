@@ -61,8 +61,9 @@
   text-decoration: none;
 }
 
-.footer__column-link:hover {
+.footer__social-link:hover {
   color: #c1c1c1;
+  transition: color 1.3s ease-in-out;
 }
 
 .footer__social-icon {
